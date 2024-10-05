@@ -9,6 +9,7 @@ int main()
 	/*set*/
 	set <int> ID;	//確定性航班集合
 	set <int> IS;	//不確定性航班集合
+	etete
 	
 
 	/*params*/
