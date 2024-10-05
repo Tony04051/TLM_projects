@@ -9,8 +9,7 @@ int main()
 	/*set*/
 	set <int> ID;	//確定性航班集合
 	set <int> IS;	//不確定性航班集合
-	
-
+	set <int> test;
 	/*params*/
 	const int I = 4;	//所有航班數量
 	const int K0 = 2;	//所有登機門，0為停機坪
